@@ -1,5 +1,4 @@
-# -The-Zomato-Dashboard-using-Power-BI-
-# Zomato Power BI Dashboard Project
+# The-Zomato-Dashboard-using-Power-BI
 
 🌟 Welcome to the Zomato Power BI Dashboard Project! 📊🍽️
 
@@ -62,3 +61,8 @@ This project offers actionable insights to optimize operations, enhance user exp
 Let's connect and explore opportunities to leverage analytics for your business success!
 
 #PowerBI #DataAnalytics #ZomatoAnalysis #BusinessIntelligence #DataVisualization
+
+
+![image](https://github.com/Ganeshkarwa/-The-Zomato-Dashboard-using-Power-BI-/assets/140792447/98c5b00f-c7ab-48c1-903b-5a5b064d4c0a)
+
+
